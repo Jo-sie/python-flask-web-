@@ -1,4 +1,4 @@
-类似Twitter的动态分享web
+类似Twitter的动态分享web，仍在开发修改中
 
     数据库:：SQLAlchemy扩展
     客户端框架：Flask-bootstrap扩展
