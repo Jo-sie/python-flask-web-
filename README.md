@@ -1,5 +1,7 @@
 类似Twitter的动态分享web，仍在开发修改中
 
+博客：http://blog.csdn.net/weixin_38878248
+
     数据库:：SQLAlchemy扩展
     客户端框架：Flask-bootstrap扩展
     表单处理：   Flask-WTF扩展
